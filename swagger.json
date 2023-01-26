@@ -11,7 +11,7 @@
       "name": "localhost"
     },
     {
-      "url": "https://leave-app-sys.herokuapp.com/",
+      "url": "https://api-cors-resolver.onrender.com/",
       "name": "dev"
     }
   ],

@@ -2,7 +2,7 @@ import axios from 'axios';
 
 // let redirect_uri = 'http://localhost:8005/api/v1/deezer';
 // let client_uri = 'http://localhost:3000';
-let redirect_uri = 'https://leave-app-sys.herokuapp.com/api/v1/deezer';
+let redirect_uri = "https://api-cors-resolver.onrender.com/api/v1/deezer";
 let client_uri = 'https://jammming-ncuti.netlify.app/';
 const app_id = 511302;
 const secret_key = '4ec83554df8ddb834eb35bd17192c2d1';
